@@ -3,6 +3,7 @@ import os
 import google.generativeai as genai
 from dotenv import load_dotenv
 import time
+import google.generativeai
 
 load_dotenv()  # Load environment variables from .env file
 
